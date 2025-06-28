@@ -1,8 +1,5 @@
 {
-  "admob": "true",
-  "appid": 2,
-  "model": "2.17403",
-  "adStatus": "true",
+  "adStatus": "false",
   "facebook": "false",
   "premodel": "41.40338",
   "banner_ad": "ca-app-pub-3940256099942544/9214589741",
