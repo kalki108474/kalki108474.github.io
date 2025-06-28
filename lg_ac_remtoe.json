@@ -1,0 +1,20 @@
+{
+  "admob": "true",
+  "appid": 2,
+  "model": "2.17403",
+  "adStatus": "true",
+  "facebook": "false",
+  "premodel": "41.40338",
+  "banner_ad": "ca-app-pub-3940256099942544/9214589741",
+  "native_ad": "ca-app-pub-3940256099942544/2247696110",
+  "networkAd": [
+    "admob",
+    "facebook",
+    "applovin",
+    "startapp",
+    "unity"
+  ],
+  "appopen_ad": "ca-app-pub-3940256099942544/9257395921",
+  "rewarded_ad": "ca-app-pub-3940256099942544/5224354917",
+  "interstitial_ad": "ca-app-pub-3940256099942544/1033173712"
+}
